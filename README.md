@@ -1,7 +1,7 @@
 # Hi, I'm Aayush Saxena 👋  
 🔐 Cybersecurity & Digital Forensics Student  
 🛡️ Threat Analysis | Incident Response | Memory Forensics  
-🏢 DRDO Intern | Former IFSO Intern  
+🏢 Former DRDO Intern | Former IFSO Intern  
 
 ---
 
